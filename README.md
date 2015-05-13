@@ -3,8 +3,12 @@ This repository provides code to create a basic sqlite database of restaurant me
 
 ## First
 
-Execute the database_setup.py file.
+Execute the database_setup.py file to build the database tables.
 
 ## Second
 
-Execute the populate_tables.py file. 
+Execute the lots_of)menus.py file to populate the database with lots of items. 
+
+## Third
+
+Execute the crud_operations.py file. 
