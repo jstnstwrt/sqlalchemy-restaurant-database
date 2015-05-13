@@ -7,7 +7,7 @@ Execute the database_setup.py file to build the database tables.
 
 ## Second
 
-Execute the lots_of)menus.py file to populate the database with lots of items. 
+Execute the lots_of_menus.py file to populate the database with lots of items. 
 
 ## Third
 
